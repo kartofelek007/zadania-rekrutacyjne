@@ -1,0 +1,19 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.9.4"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
